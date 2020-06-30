@@ -1,8 +1,10 @@
-This is part of the dissertation [Pitch of Voiced Speech in the Short-Time Fourier Transform: Algorithms, Ground Truths, and Evaluation Methods](https://bastibe.github.io/Dissertation-Website/)  
+This is part of the dissertation [Pitch of Voiced Speech in the Short-Time Fourier Transform: Algorithms, Ground Truths, and Evaluation Methods](https://bastibe.github.io/Dissertation-Website/), on the topic of [Fundamental Frequency Ground Truth for Speech Corpora from Multi-Algorithm Consensus](https://bastibe.github.io/Dissertation-Website/consensus-truth/index.html)  
 (Preprint Manuscript)  
-© 2020, Bastian Bechtold. All rights reserved.
+© 2020, Bastian Bechtold, Jade Hochschule & Carl von Ossietzky Universität Oldenburg, Germany.
 
 # Consensus Truth Experiments
+
+![GitHub](https://img.shields.io/github/license/bastibe/Consensus-Truth-Scripts)
 
 This directory contains programs that calculate consensus pitch tracks for speech signals.
 
@@ -63,6 +65,8 @@ The `PDAs` module includes the following fundamental frequency estimation algori
 - [YIN](http://audition.ens.fr/adc/) [28]
 
 These algorithms are included in their native programming language (Matlab for BANA, DNN, MBSC, NLS, NLS2, PEFAC, RAPT, RNN, SACC, SHR, SRH, STRAIGHT, SWIPE, YAAPT, and YIN; C for KALDI, PRAAT, and SAFE; Python for AMDF, AUTOC, CEP, CREPE, MAPS, and SIFT), and adapted to a common Python interface. AMDF, AUTOC, CEP, and SIFT are our partial re-implementations as no original source code could be found.
+
+All source code in this repository is licensed under the terms of the GPLv3 license.
 
 ## References:
 
