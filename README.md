@@ -1,5 +1,5 @@
 This is part of the dissertation [Pitch of Voiced Speech in the Short-Time Fourier Transform: Algorithms, Ground Truths, and Evaluation Methods](https://bastibe.github.io/Dissertation-Website/), on the topic of [Fundamental Frequency Ground Truth for Speech Corpora from Multi-Algorithm Consensus](https://bastibe.github.io/Dissertation-Website/consensus-truth/index.html)  
-(Preprint Manuscript)  
+(Accepted Dissertation)  
 © 2020, Bastian Bechtold, Jade Hochschule & Carl von Ossietzky Universität Oldenburg, Germany.
 
 # Consensus Truth Experiments
